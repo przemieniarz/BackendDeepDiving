@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Async/Async - ale bardziej pod spodem.md",
+                "file": "Async/Czynniki i mechanizmy wpływające na dostępność i wykorzystanie wątków.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Async - ale bardziej pod spodem"
+              "title": "Czynniki i mechanizmy wpływające na dostępność i wykorzystanie wątków"
             }
           }
         ]
@@ -178,16 +178,20 @@
   },
   "active": "1d03e74c4b729e6c",
   "lastOpenFiles": [
-    "test note.md",
+    "Async/sync, async, multithreading and multiprocessing.md",
+    "Async/Czynniki i mechanizmy wpływające na dostępność i wykorzystanie wątków.md",
+    "Async/Async - maszyna stanów.md",
     "Async/Async - ale bardziej pod spodem.md",
+    "Async/obrazki",
+    "test note.md",
     "README.md",
     "Drawing 2025-09-16 20.12.24.excalidraw.md",
-    "Async/Pasted image 20250917204543.png",
-    "Async/Pasted image 20250917204416.png",
-    "Async/Pasted image 20250917204040.png",
-    "Async/Pasted image 20250917202908.png",
-    "Async/Pasted image 20250917202133.png",
-    "Async/Pasted image 20250917202119.png",
+    "Async/obrazki/Pasted image 20250917204543.png",
+    "Async/obrazki/Pasted image 20250917204416.png",
+    "Async/obrazki/Pasted image 20250917204040.png",
+    "Async/obrazki/Pasted image 20250917202908.png",
+    "Async/obrazki/Pasted image 20250917202133.png",
+    "Async/obrazki/Pasted image 20250917202119.png",
     "Async",
     "Untitled/Drawing 2025-09-16 20.04.09.excalidraw.md",
     "Untitled.md"
